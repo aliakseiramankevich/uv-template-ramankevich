@@ -71,7 +71,7 @@ Creating feature/setup branch
 git checkout -b feature/setup-tests
 ```
 ---
-Pushing uv initialization into dev branch
+Pushing tests realization into dev branch
 ```bash
 git add .
 git commit -m "added pytests"
